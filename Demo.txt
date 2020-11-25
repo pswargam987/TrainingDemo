@@ -1,0 +1,1 @@
+Let's start with demo on Git. We will start with config setup then proceed with creating branches, files, commiting the changes, merging etc.
